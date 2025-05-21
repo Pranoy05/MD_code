@@ -1,8 +1,8 @@
 # MD_code
 A simple molecular dynamics (MD) simulation code written from the ground up. Part of my internship at IITK.
 
-Ver 0.0: 
-written by Gemini AI. Used to get an outline. Not uploaded here. 
+Initial version: 
+written by Gemini AI. Used to get an outline.  
 
 Ver. 1.0: 
 Forcefield is a 1D double well potential, U(x) = Uo (1-x^2)^2 
@@ -20,3 +20,5 @@ Final(?) version for 1D
 Calculation of PE, KE, and TE. 
 Plotting function removed. 
 Output now given as a CSV file with each position and velocity, along with time, KE, PE, TE. 
+
+Ver. 1.2 is uploaded as a .py file, rest are available in a .ipynb file (MD_code-1.2.ipynb).
