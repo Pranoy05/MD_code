@@ -22,3 +22,6 @@ Plotting function removed.
 Output now given as a CSV file with each position and velocity, along with time, KE, PE, TE. 
 
 Ver. 1.2 is uploaded as a .py file, rest are available in a .ipynb file (MD_code-1.2.ipynb).
+
+Ver 2.0+: 
+2D Forcefield, U(x) = (1-x^2)^2 + y^2
